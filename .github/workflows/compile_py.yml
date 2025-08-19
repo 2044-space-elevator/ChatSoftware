@@ -21,14 +21,17 @@ jobs:
         run: |
           cd bin
           cd linux
-          pyinstaller --onefile ../../chat.py
-          pyinstaller --onefile --noconsole ../../client.py
-          rm chat.spec
-          rm client.spec
+          pyinstaller --onefile ../../TFserver.py
+          pyinstaller --onefile --noconsole ../../client_gui.py
+          pyinstaller --onefile --noconsole ../../client_lite.py
+          rm TFserver.spec
+          rm client_gui.spec
+          rm client_lite.spec
           rm -rf build/*
           rmdir build
-          cp -rf dist/chat .
-          cp -rf dist/client .
+          cp -rf dist/TFserver .
+          cp -rf dist/client_gui .
+          cp -rf dist/client_lite .
           rm dist/*
           rmdir dist
           cd ../..
@@ -55,10 +58,12 @@ jobs:
         run: |
           cd bin
           cd windows
-          pyinstaller --onefile ../../chat.py
-          pyinstaller --onefile --noconsole ../../client.py
-          rm chat.spec
-          rm client.spec
+          pyinstaller --onefile ../../TFserver.py
+          pyinstaller --onefile --noconsole ../../client_gui.py
+          pyinstaller --onefile --noconsole ../../client_lite.py
+          rm TFserver.spec
+          rm client_gui.spec
+          rm client_lite.spec
           Copy-Item -Path ./dist/* -destination ./
           remove-item -path "./dist" -recurse
           remove-item -path "./build" -recurse
