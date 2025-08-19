@@ -1,9 +1,9 @@
 import socket, threading, argparse
 
 parser = argparse.ArgumentParser()
-parser.add_argument('-ip',"--ip", type=str, help='The IP address of the server',metavar="")
-parser.add_argument("-m","--max",type=int,help="The maximum numbers of account",metavar="")
-parser.add_argument("-p","--port",type=int,help="The connecting port (must be spare)",metavar="")
+parser.add_argument('-ip',"--ip", type=str, help='The IP address of the server', metavar="")
+parser.add_argument("-m","--max",type=int,help="The maximum numbers of account", metavar="")
+parser.add_argument("-p","--port",type=int,help="The connecting port (must be spare)", metavar="")
 args=parser.parse_args()
 if args.ip:
     ip = args.ip
