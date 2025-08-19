@@ -1,9 +1,27 @@
-import socket, threading
+import socket, threading, argparse
 
-ip = input("Connect to IP:")
+parser = argparse.ArgumentParser()
+parser.add_argument('-ip',"--ip", type=str, help='The IP address of the server',)
+parser.add_argument("-m","--max",type=int,help="The maximum numbers of account")
+parser.add_argument("-p","--port",type=int,help="The connecting port (must be spare)")
+args=parser.parse_args()
+if args.ip:
+    ip = args.ip
+    print(f"According to your argument, the IP address is set to {ip}")
+else:
+    ip = input("Connect to IP:")
+if args.max:
+    account_numbers = args.max
+    print(f"According to your argument, the maximum numbers of account is set to {account_numbers}")
+else:
+    account_numbers = eval(input("The maximum numbers of account:"))
+if args.port:
+    portin = args.port
+    print(f"According to your argument, the connecting port is set to {portin}")
+else:
+    portin = eval(input("The connecting port (must be spare):"))
+
 s = socket.socket()
-account_numbers = eval(input("The maximum umbers of account:"))
-portin = eval(input("The connecting port (must be spare):"))
 s.bind((ip, portin))
 s.listen(account_numbers)
 s.setblocking(0)
