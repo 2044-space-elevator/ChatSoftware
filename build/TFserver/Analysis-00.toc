@@ -1,5 +1,5 @@
-(['C:\\Users\\CXW\\Documents\\TouchFish_Update\\TouchFish-main\\TFserver.py'],
- ['C:\\Users\\CXW\\Documents\\TouchFish_Update\\TouchFish-main'],
+(['C:\\Users\\CXW\\TouchFish-1\\TFserver.py'],
+ ['C:\\Users\\CXW\\TouchFish-1'],
  [],
  [('C:\\Users\\CXW\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python313\\site-packages\\numpy\\_pyinstaller',
    0),
@@ -20,9 +20,7 @@
  [('pyi_rth_inspect',
    'C:\\Users\\CXW\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python313\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_inspect.py',
    'PYSOURCE'),
-  ('TFserver',
-   'C:\\Users\\CXW\\Documents\\TouchFish_Update\\TouchFish-main\\TFserver.py',
-   'PYSOURCE')],
+  ('TFserver', 'C:\\Users\\CXW\\TouchFish-1\\TFserver.py', 'PYSOURCE')],
  [('zipfile',
    'C:\\Program '
    'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.2032.0_x64__qbz5n2kfra8p0\\Lib\\zipfile\\__init__.py',
@@ -407,6 +405,10 @@
    'C:\\Program '
    'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.2032.0_x64__qbz5n2kfra8p0\\Lib\\ast.py',
    'PYMODULE'),
+  ('_py_abc',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.2032.0_x64__qbz5n2kfra8p0\\Lib\\_py_abc.py',
+   'PYMODULE'),
   ('tracemalloc',
    'C:\\Program '
    'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.2032.0_x64__qbz5n2kfra8p0\\Lib\\tracemalloc.py',
@@ -419,9 +421,9 @@
    'C:\\Program '
    'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.2032.0_x64__qbz5n2kfra8p0\\Lib\\stringprep.py',
    'PYMODULE'),
-  ('_py_abc',
+  ('_strptime',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.2032.0_x64__qbz5n2kfra8p0\\Lib\\_py_abc.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.2032.0_x64__qbz5n2kfra8p0\\Lib\\_strptime.py',
    'PYMODULE'),
   ('datetime',
    'C:\\Program '
@@ -430,10 +432,6 @@
   ('_pydatetime',
    'C:\\Program '
    'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.2032.0_x64__qbz5n2kfra8p0\\Lib\\_pydatetime.py',
-   'PYMODULE'),
-  ('_strptime',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.2032.0_x64__qbz5n2kfra8p0\\Lib\\_strptime.py',
    'PYMODULE'),
   ('subprocess',
    'C:\\Program '
@@ -507,57 +505,57 @@
    'C:\\Program '
    'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.2032.0_x64__qbz5n2kfra8p0\\DLLs\\select.pyd',
    'EXTENSION'),
-  ('api-ms-win-crt-runtime-l1-1-0.dll',
+  ('api-ms-win-crt-conio-l1-1-0.dll',
    'C:\\Program '
-   'Files\\Microsoft\\jdk-11.0.16.101-hotspot\\bin\\api-ms-win-crt-runtime-l1-1-0.dll',
-   'BINARY'),
-  ('api-ms-win-crt-time-l1-1-0.dll',
-   'C:\\Program '
-   'Files\\Microsoft\\jdk-11.0.16.101-hotspot\\bin\\api-ms-win-crt-time-l1-1-0.dll',
-   'BINARY'),
-  ('api-ms-win-crt-stdio-l1-1-0.dll',
-   'C:\\Program '
-   'Files\\Microsoft\\jdk-11.0.16.101-hotspot\\bin\\api-ms-win-crt-stdio-l1-1-0.dll',
-   'BINARY'),
-  ('api-ms-win-crt-filesystem-l1-1-0.dll',
-   'C:\\Program '
-   'Files\\Microsoft\\jdk-11.0.16.101-hotspot\\bin\\api-ms-win-crt-filesystem-l1-1-0.dll',
+   'Files\\Microsoft\\jdk-11.0.16.101-hotspot\\bin\\api-ms-win-crt-conio-l1-1-0.dll',
    'BINARY'),
   ('api-ms-win-crt-math-l1-1-0.dll',
    'C:\\Program '
    'Files\\Microsoft\\jdk-11.0.16.101-hotspot\\bin\\api-ms-win-crt-math-l1-1-0.dll',
    'BINARY'),
-  ('api-ms-win-crt-string-l1-1-0.dll',
+  ('api-ms-win-crt-convert-l1-1-0.dll',
    'C:\\Program '
-   'Files\\Microsoft\\jdk-11.0.16.101-hotspot\\bin\\api-ms-win-crt-string-l1-1-0.dll',
-   'BINARY'),
-  ('api-ms-win-crt-process-l1-1-0.dll',
-   'C:\\Program '
-   'Files\\Microsoft\\jdk-11.0.16.101-hotspot\\bin\\api-ms-win-crt-process-l1-1-0.dll',
-   'BINARY'),
-  ('api-ms-win-crt-conio-l1-1-0.dll',
-   'C:\\Program '
-   'Files\\Microsoft\\jdk-11.0.16.101-hotspot\\bin\\api-ms-win-crt-conio-l1-1-0.dll',
+   'Files\\Microsoft\\jdk-11.0.16.101-hotspot\\bin\\api-ms-win-crt-convert-l1-1-0.dll',
    'BINARY'),
   ('api-ms-win-crt-locale-l1-1-0.dll',
    'C:\\Program '
    'Files\\Microsoft\\jdk-11.0.16.101-hotspot\\bin\\api-ms-win-crt-locale-l1-1-0.dll',
    'BINARY'),
-  ('api-ms-win-crt-convert-l1-1-0.dll',
+  ('api-ms-win-crt-runtime-l1-1-0.dll',
    'C:\\Program '
-   'Files\\Microsoft\\jdk-11.0.16.101-hotspot\\bin\\api-ms-win-crt-convert-l1-1-0.dll',
-   'BINARY'),
-  ('api-ms-win-crt-environment-l1-1-0.dll',
-   'C:\\Program '
-   'Files\\Microsoft\\jdk-11.0.16.101-hotspot\\bin\\api-ms-win-crt-environment-l1-1-0.dll',
+   'Files\\Microsoft\\jdk-11.0.16.101-hotspot\\bin\\api-ms-win-crt-runtime-l1-1-0.dll',
    'BINARY'),
   ('VCRUNTIME140.dll',
    'C:\\Program '
    'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.2032.0_x64__qbz5n2kfra8p0\\VCRUNTIME140.dll',
    'BINARY'),
+  ('api-ms-win-crt-stdio-l1-1-0.dll',
+   'C:\\Program '
+   'Files\\Microsoft\\jdk-11.0.16.101-hotspot\\bin\\api-ms-win-crt-stdio-l1-1-0.dll',
+   'BINARY'),
   ('api-ms-win-crt-heap-l1-1-0.dll',
    'C:\\Program '
    'Files\\Microsoft\\jdk-11.0.16.101-hotspot\\bin\\api-ms-win-crt-heap-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-process-l1-1-0.dll',
+   'C:\\Program '
+   'Files\\Microsoft\\jdk-11.0.16.101-hotspot\\bin\\api-ms-win-crt-process-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-filesystem-l1-1-0.dll',
+   'C:\\Program '
+   'Files\\Microsoft\\jdk-11.0.16.101-hotspot\\bin\\api-ms-win-crt-filesystem-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-string-l1-1-0.dll',
+   'C:\\Program '
+   'Files\\Microsoft\\jdk-11.0.16.101-hotspot\\bin\\api-ms-win-crt-string-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-environment-l1-1-0.dll',
+   'C:\\Program '
+   'Files\\Microsoft\\jdk-11.0.16.101-hotspot\\bin\\api-ms-win-crt-environment-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-time-l1-1-0.dll',
+   'C:\\Program '
+   'Files\\Microsoft\\jdk-11.0.16.101-hotspot\\bin\\api-ms-win-crt-time-l1-1-0.dll',
    'BINARY'),
   ('libcrypto-3.dll',
    'C:\\Program '
@@ -570,37 +568,25 @@
    'C:\\Program '
    'Files\\Microsoft\\jdk-11.0.16.101-hotspot\\bin\\api-ms-win-crt-utility-l1-1-0.dll',
    'BINARY'),
-  ('api-ms-win-core-synch-l1-2-0.dll',
+  ('api-ms-win-core-debug-l1-1-0.dll',
    'C:\\Program '
-   'Files\\Microsoft\\jdk-11.0.16.101-hotspot\\bin\\api-ms-win-core-synch-l1-2-0.dll',
-   'BINARY'),
-  ('api-ms-win-core-util-l1-1-0.dll',
-   'C:\\Program '
-   'Files\\Microsoft\\jdk-11.0.16.101-hotspot\\bin\\api-ms-win-core-util-l1-1-0.dll',
-   'BINARY'),
-  ('api-ms-win-core-console-l1-1-0.dll',
-   'C:\\Program '
-   'Files\\Microsoft\\jdk-11.0.16.101-hotspot\\bin\\api-ms-win-core-console-l1-1-0.dll',
+   'Files\\Microsoft\\jdk-11.0.16.101-hotspot\\bin\\api-ms-win-core-debug-l1-1-0.dll',
    'BINARY'),
   ('api-ms-win-core-namedpipe-l1-1-0.dll',
    'C:\\Program '
    'Files\\Microsoft\\jdk-11.0.16.101-hotspot\\bin\\api-ms-win-core-namedpipe-l1-1-0.dll',
    'BINARY'),
-  ('api-ms-win-core-timezone-l1-1-0.dll',
+  ('api-ms-win-core-console-l1-1-0.dll',
    'C:\\Program '
-   'Files\\Microsoft\\jdk-11.0.16.101-hotspot\\bin\\api-ms-win-core-timezone-l1-1-0.dll',
+   'Files\\Microsoft\\jdk-11.0.16.101-hotspot\\bin\\api-ms-win-core-console-l1-1-0.dll',
    'BINARY'),
-  ('api-ms-win-core-handle-l1-1-0.dll',
+  ('api-ms-win-core-libraryloader-l1-1-0.dll',
    'C:\\Program '
-   'Files\\Microsoft\\jdk-11.0.16.101-hotspot\\bin\\api-ms-win-core-handle-l1-1-0.dll',
+   'Files\\Microsoft\\jdk-11.0.16.101-hotspot\\bin\\api-ms-win-core-libraryloader-l1-1-0.dll',
    'BINARY'),
-  ('api-ms-win-core-string-l1-1-0.dll',
+  ('api-ms-win-core-rtlsupport-l1-1-0.dll',
    'C:\\Program '
-   'Files\\Microsoft\\jdk-11.0.16.101-hotspot\\bin\\api-ms-win-core-string-l1-1-0.dll',
-   'BINARY'),
-  ('api-ms-win-core-processthreads-l1-1-1.dll',
-   'C:\\Program '
-   'Files\\Microsoft\\jdk-11.0.16.101-hotspot\\bin\\api-ms-win-core-processthreads-l1-1-1.dll',
+   'Files\\Microsoft\\jdk-11.0.16.101-hotspot\\bin\\api-ms-win-core-rtlsupport-l1-1-0.dll',
    'BINARY'),
   ('api-ms-win-core-interlocked-l1-1-0.dll',
    'C:\\Program '
@@ -610,78 +596,150 @@
    'C:\\Program '
    'Files\\Microsoft\\jdk-11.0.16.101-hotspot\\bin\\api-ms-win-core-memory-l1-1-0.dll',
    'BINARY'),
+  ('api-ms-win-core-datetime-l1-1-0.dll',
+   'C:\\Program '
+   'Files\\Microsoft\\jdk-11.0.16.101-hotspot\\bin\\api-ms-win-core-datetime-l1-1-0.dll',
+   'BINARY'),
   ('api-ms-win-core-file-l1-2-0.dll',
    'C:\\Program '
    'Files\\Microsoft\\jdk-11.0.16.101-hotspot\\bin\\api-ms-win-core-file-l1-2-0.dll',
-   'BINARY'),
-  ('api-ms-win-core-sysinfo-l1-1-0.dll',
-   'C:\\Program '
-   'Files\\Microsoft\\jdk-11.0.16.101-hotspot\\bin\\api-ms-win-core-sysinfo-l1-1-0.dll',
-   'BINARY'),
-  ('api-ms-win-core-processenvironment-l1-1-0.dll',
-   'C:\\Program '
-   'Files\\Microsoft\\jdk-11.0.16.101-hotspot\\bin\\api-ms-win-core-processenvironment-l1-1-0.dll',
    'BINARY'),
   ('api-ms-win-core-localization-l1-2-0.dll',
    'C:\\Program '
    'Files\\Microsoft\\jdk-11.0.16.101-hotspot\\bin\\api-ms-win-core-localization-l1-2-0.dll',
    'BINARY'),
-  ('api-ms-win-core-debug-l1-1-0.dll',
+  ('api-ms-win-core-timezone-l1-1-0.dll',
    'C:\\Program '
-   'Files\\Microsoft\\jdk-11.0.16.101-hotspot\\bin\\api-ms-win-core-debug-l1-1-0.dll',
+   'Files\\Microsoft\\jdk-11.0.16.101-hotspot\\bin\\api-ms-win-core-timezone-l1-1-0.dll',
    'BINARY'),
-  ('api-ms-win-core-rtlsupport-l1-1-0.dll',
+  ('api-ms-win-core-processenvironment-l1-1-0.dll',
    'C:\\Program '
-   'Files\\Microsoft\\jdk-11.0.16.101-hotspot\\bin\\api-ms-win-core-rtlsupport-l1-1-0.dll',
-   'BINARY'),
-  ('api-ms-win-core-file-l1-1-0.dll',
-   'C:\\Program '
-   'Files\\Microsoft\\jdk-11.0.16.101-hotspot\\bin\\api-ms-win-core-file-l1-1-0.dll',
+   'Files\\Microsoft\\jdk-11.0.16.101-hotspot\\bin\\api-ms-win-core-processenvironment-l1-1-0.dll',
    'BINARY'),
   ('api-ms-win-core-profile-l1-1-0.dll',
    'C:\\Program '
    'Files\\Microsoft\\jdk-11.0.16.101-hotspot\\bin\\api-ms-win-core-profile-l1-1-0.dll',
    'BINARY'),
+  ('api-ms-win-core-heap-l1-1-0.dll',
+   'C:\\Program '
+   'Files\\Microsoft\\jdk-11.0.16.101-hotspot\\bin\\api-ms-win-core-heap-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-util-l1-1-0.dll',
+   'C:\\Program '
+   'Files\\Microsoft\\jdk-11.0.16.101-hotspot\\bin\\api-ms-win-core-util-l1-1-0.dll',
+   'BINARY'),
   ('api-ms-win-core-processthreads-l1-1-0.dll',
    'C:\\Program '
    'Files\\Microsoft\\jdk-11.0.16.101-hotspot\\bin\\api-ms-win-core-processthreads-l1-1-0.dll',
-   'BINARY'),
-  ('api-ms-win-core-datetime-l1-1-0.dll',
-   'C:\\Program '
-   'Files\\Microsoft\\jdk-11.0.16.101-hotspot\\bin\\api-ms-win-core-datetime-l1-1-0.dll',
    'BINARY'),
   ('api-ms-win-core-synch-l1-1-0.dll',
    'C:\\Program '
    'Files\\Microsoft\\jdk-11.0.16.101-hotspot\\bin\\api-ms-win-core-synch-l1-1-0.dll',
    'BINARY'),
-  ('api-ms-win-core-file-l2-1-0.dll',
+  ('api-ms-win-core-file-l1-1-0.dll',
    'C:\\Program '
-   'Files\\Microsoft\\jdk-11.0.16.101-hotspot\\bin\\api-ms-win-core-file-l2-1-0.dll',
+   'Files\\Microsoft\\jdk-11.0.16.101-hotspot\\bin\\api-ms-win-core-file-l1-1-0.dll',
    'BINARY'),
-  ('api-ms-win-core-libraryloader-l1-1-0.dll',
+  ('api-ms-win-core-synch-l1-2-0.dll',
    'C:\\Program '
-   'Files\\Microsoft\\jdk-11.0.16.101-hotspot\\bin\\api-ms-win-core-libraryloader-l1-1-0.dll',
+   'Files\\Microsoft\\jdk-11.0.16.101-hotspot\\bin\\api-ms-win-core-synch-l1-2-0.dll',
    'BINARY'),
-  ('api-ms-win-core-heap-l1-1-0.dll',
+  ('api-ms-win-core-string-l1-1-0.dll',
    'C:\\Program '
-   'Files\\Microsoft\\jdk-11.0.16.101-hotspot\\bin\\api-ms-win-core-heap-l1-1-0.dll',
+   'Files\\Microsoft\\jdk-11.0.16.101-hotspot\\bin\\api-ms-win-core-string-l1-1-0.dll',
    'BINARY'),
   ('api-ms-win-core-errorhandling-l1-1-0.dll',
    'C:\\Program '
    'Files\\Microsoft\\jdk-11.0.16.101-hotspot\\bin\\api-ms-win-core-errorhandling-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-file-l2-1-0.dll',
+   'C:\\Program '
+   'Files\\Microsoft\\jdk-11.0.16.101-hotspot\\bin\\api-ms-win-core-file-l2-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-processthreads-l1-1-1.dll',
+   'C:\\Program '
+   'Files\\Microsoft\\jdk-11.0.16.101-hotspot\\bin\\api-ms-win-core-processthreads-l1-1-1.dll',
+   'BINARY'),
+  ('api-ms-win-core-sysinfo-l1-1-0.dll',
+   'C:\\Program '
+   'Files\\Microsoft\\jdk-11.0.16.101-hotspot\\bin\\api-ms-win-core-sysinfo-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-handle-l1-1-0.dll',
+   'C:\\Program '
+   'Files\\Microsoft\\jdk-11.0.16.101-hotspot\\bin\\api-ms-win-core-handle-l1-1-0.dll',
    'BINARY')],
  [],
  [],
  [('base_library.zip',
-   'C:\\Users\\CXW\\Documents\\TouchFish_Update\\TouchFish-main\\build\\TFserver\\base_library.zip',
+   'C:\\Users\\CXW\\TouchFish-1\\build\\TFserver\\base_library.zip',
    'DATA')],
- [('weakref',
+ [('re._parser',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.2032.0_x64__qbz5n2kfra8p0\\Lib\\weakref.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.2032.0_x64__qbz5n2kfra8p0\\Lib\\re\\_parser.py',
    'PYMODULE'),
-  ('enum',
+  ('re._constants',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.2032.0_x64__qbz5n2kfra8p0\\Lib\\enum.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.2032.0_x64__qbz5n2kfra8p0\\Lib\\re\\_constants.py',
+   'PYMODULE'),
+  ('re._compiler',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.2032.0_x64__qbz5n2kfra8p0\\Lib\\re\\_compiler.py',
+   'PYMODULE'),
+  ('re._casefix',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.2032.0_x64__qbz5n2kfra8p0\\Lib\\re\\_casefix.py',
+   'PYMODULE'),
+  ('re',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.2032.0_x64__qbz5n2kfra8p0\\Lib\\re\\__init__.py',
+   'PYMODULE'),
+  ('_weakrefset',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.2032.0_x64__qbz5n2kfra8p0\\Lib\\_weakrefset.py',
+   'PYMODULE'),
+  ('abc',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.2032.0_x64__qbz5n2kfra8p0\\Lib\\abc.py',
+   'PYMODULE'),
+  ('keyword',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.2032.0_x64__qbz5n2kfra8p0\\Lib\\keyword.py',
+   'PYMODULE'),
+  ('sre_compile',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.2032.0_x64__qbz5n2kfra8p0\\Lib\\sre_compile.py',
+   'PYMODULE'),
+  ('genericpath',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.2032.0_x64__qbz5n2kfra8p0\\Lib\\genericpath.py',
+   'PYMODULE'),
+  ('sre_parse',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.2032.0_x64__qbz5n2kfra8p0\\Lib\\sre_parse.py',
+   'PYMODULE'),
+  ('types',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.2032.0_x64__qbz5n2kfra8p0\\Lib\\types.py',
+   'PYMODULE'),
+  ('posixpath',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.2032.0_x64__qbz5n2kfra8p0\\Lib\\posixpath.py',
+   'PYMODULE'),
+  ('warnings',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.2032.0_x64__qbz5n2kfra8p0\\Lib\\warnings.py',
+   'PYMODULE'),
+  ('sre_constants',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.2032.0_x64__qbz5n2kfra8p0\\Lib\\sre_constants.py',
+   'PYMODULE'),
+  ('collections',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.2032.0_x64__qbz5n2kfra8p0\\Lib\\collections\\__init__.py',
+   'PYMODULE'),
+  ('traceback',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.2032.0_x64__qbz5n2kfra8p0\\Lib\\traceback.py',
    'PYMODULE'),
   ('locale',
    'C:\\Program '
@@ -691,61 +749,49 @@
    'C:\\Program '
    'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.2032.0_x64__qbz5n2kfra8p0\\Lib\\reprlib.py',
    'PYMODULE'),
-  ('ntpath',
+  ('copyreg',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.2032.0_x64__qbz5n2kfra8p0\\Lib\\ntpath.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.2032.0_x64__qbz5n2kfra8p0\\Lib\\copyreg.py',
+   'PYMODULE'),
+  ('enum',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.2032.0_x64__qbz5n2kfra8p0\\Lib\\enum.py',
+   'PYMODULE'),
+  ('heapq',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.2032.0_x64__qbz5n2kfra8p0\\Lib\\heapq.py',
    'PYMODULE'),
   ('linecache',
    'C:\\Program '
    'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.2032.0_x64__qbz5n2kfra8p0\\Lib\\linecache.py',
    'PYMODULE'),
-  ('warnings',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.2032.0_x64__qbz5n2kfra8p0\\Lib\\warnings.py',
-   'PYMODULE'),
-  ('keyword',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.2032.0_x64__qbz5n2kfra8p0\\Lib\\keyword.py',
-   'PYMODULE'),
-  ('sre_constants',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.2032.0_x64__qbz5n2kfra8p0\\Lib\\sre_constants.py',
-   'PYMODULE'),
-  ('copyreg',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.2032.0_x64__qbz5n2kfra8p0\\Lib\\copyreg.py',
-   'PYMODULE'),
-  ('traceback',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.2032.0_x64__qbz5n2kfra8p0\\Lib\\traceback.py',
-   'PYMODULE'),
-  ('genericpath',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.2032.0_x64__qbz5n2kfra8p0\\Lib\\genericpath.py',
-   'PYMODULE'),
-  ('io',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.2032.0_x64__qbz5n2kfra8p0\\Lib\\io.py',
-   'PYMODULE'),
-  ('collections',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.2032.0_x64__qbz5n2kfra8p0\\Lib\\collections\\__init__.py',
-   'PYMODULE'),
-  ('operator',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.2032.0_x64__qbz5n2kfra8p0\\Lib\\operator.py',
-   'PYMODULE'),
   ('_collections_abc',
    'C:\\Program '
    'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.2032.0_x64__qbz5n2kfra8p0\\Lib\\_collections_abc.py',
+   'PYMODULE'),
+  ('functools',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.2032.0_x64__qbz5n2kfra8p0\\Lib\\functools.py',
    'PYMODULE'),
   ('codecs',
    'C:\\Program '
    'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.2032.0_x64__qbz5n2kfra8p0\\Lib\\codecs.py',
    'PYMODULE'),
-  ('_weakrefset',
+  ('io',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.2032.0_x64__qbz5n2kfra8p0\\Lib\\_weakrefset.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.2032.0_x64__qbz5n2kfra8p0\\Lib\\io.py',
+   'PYMODULE'),
+  ('stat',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.2032.0_x64__qbz5n2kfra8p0\\Lib\\stat.py',
+   'PYMODULE'),
+  ('operator',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.2032.0_x64__qbz5n2kfra8p0\\Lib\\operator.py',
+   'PYMODULE'),
+  ('weakref',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.2032.0_x64__qbz5n2kfra8p0\\Lib\\weakref.py',
    'PYMODULE'),
   ('encodings.zlib_codec',
    'C:\\Program '
@@ -1235,57 +1281,9 @@
    'C:\\Program '
    'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.2032.0_x64__qbz5n2kfra8p0\\Lib\\encodings\\__init__.py',
    'PYMODULE'),
-  ('stat',
+  ('ntpath',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.2032.0_x64__qbz5n2kfra8p0\\Lib\\stat.py',
-   'PYMODULE'),
-  ('posixpath',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.2032.0_x64__qbz5n2kfra8p0\\Lib\\posixpath.py',
-   'PYMODULE'),
-  ('abc',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.2032.0_x64__qbz5n2kfra8p0\\Lib\\abc.py',
-   'PYMODULE'),
-  ('types',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.2032.0_x64__qbz5n2kfra8p0\\Lib\\types.py',
-   'PYMODULE'),
-  ('re._parser',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.2032.0_x64__qbz5n2kfra8p0\\Lib\\re\\_parser.py',
-   'PYMODULE'),
-  ('re._constants',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.2032.0_x64__qbz5n2kfra8p0\\Lib\\re\\_constants.py',
-   'PYMODULE'),
-  ('re._compiler',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.2032.0_x64__qbz5n2kfra8p0\\Lib\\re\\_compiler.py',
-   'PYMODULE'),
-  ('re._casefix',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.2032.0_x64__qbz5n2kfra8p0\\Lib\\re\\_casefix.py',
-   'PYMODULE'),
-  ('re',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.2032.0_x64__qbz5n2kfra8p0\\Lib\\re\\__init__.py',
-   'PYMODULE'),
-  ('heapq',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.2032.0_x64__qbz5n2kfra8p0\\Lib\\heapq.py',
-   'PYMODULE'),
-  ('sre_parse',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.2032.0_x64__qbz5n2kfra8p0\\Lib\\sre_parse.py',
-   'PYMODULE'),
-  ('functools',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.2032.0_x64__qbz5n2kfra8p0\\Lib\\functools.py',
-   'PYMODULE'),
-  ('sre_compile',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.2032.0_x64__qbz5n2kfra8p0\\Lib\\sre_compile.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.2032.0_x64__qbz5n2kfra8p0\\Lib\\ntpath.py',
    'PYMODULE'),
   ('os',
    'C:\\Program '

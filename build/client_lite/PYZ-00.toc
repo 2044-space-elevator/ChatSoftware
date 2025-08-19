@@ -1,4 +1,4 @@
-('C:\\Users\\CXW\\Documents\\TouchFish_Update\\TouchFish-main\\build\\client_lite\\PYZ-00.pyz',
+('C:\\Users\\CXW\\TouchFish-1\\build\\client_lite\\PYZ-00.pyz',
  [('__future__',
    'C:\\Program '
    'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.2032.0_x64__qbz5n2kfra8p0\\Lib\\__future__.py',
